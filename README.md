@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact"/>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrubagu&show_icons=true&theme=vue&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact" /> 
+</p>
+
 
 ---
