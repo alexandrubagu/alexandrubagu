@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrubagu&show_icons=true&theme=vue&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics" />
-</p>
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrubagu&langs_count=10&hide_border=true&layout=compact" /> 
 </p>
 
