@@ -25,7 +25,7 @@ Also I've contributted to some open-source projects like:
 
 :white_check_mark: [potatosalad/erlang-jose - add parentheses to remove the ambiguity on Elixir 1.4](https://github.com/potatosalad/erlang-jose/pull/26)
 
-:white_check_mark: [elixir-ecto/ecto - Ecto dump models](https://github.com/elixir-ecto/ecto/pull/1722)
+:x: [elixir-ecto/ecto - Ecto dump models](https://github.com/elixir-ecto/ecto/pull/1722)
 
 :white_check_mark: [slimphp/Slim - fix function log from Slim/Log.php](https://github.com/slimphp/Slim/pull/851)
 
