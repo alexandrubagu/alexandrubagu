@@ -13,7 +13,7 @@ so I've decided that is the 💸 perfect time to start learning something new. I
 At some point, I used ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) for developing admin interfaces
 
 
-Also I've contributted to some open-source projects like:
+Also I've contributed to some open-source projects:
 
 :white_check_mark: [msaraiva/surface - implements input form elements](https://github.com/msaraiva/surface/pull/79)
 
